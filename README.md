@@ -50,4 +50,4 @@ Designed to:
 
 ---
 
-Stay tuned. More commits dropping soon.
+More commits dropping soon.

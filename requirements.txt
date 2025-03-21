@@ -1,0 +1,11 @@
+#openai
+# langchain
+# chromadb
+sentence-transformers
+PyMuPDF
+pypdf
+# python-telegram-bot
+flask
+python-dotenv
+pyyaml
+tqdm

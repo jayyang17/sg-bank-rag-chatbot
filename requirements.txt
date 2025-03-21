@@ -1,11 +1,15 @@
-#openai
-# langchain
-# chromadb
+openai
+langchain
+chromadb
 sentence-transformers
 PyMuPDF
-pypdf
-# python-telegram-bot
+PyPDF2
+python-telegram-bot
 flask
 python-dotenv
 pyyaml
 tqdm
+pandas
+numpy
+camelot-py[cv]
+ensure
